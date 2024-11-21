@@ -3,7 +3,7 @@
 > Update：2024/11/22 <br />
 > Author：gptchinese 
 
-欢迎使用ChatGPT中文版！国内可以直接使用的**ChatGPT中文版**！**无需翻墙，支持GPT-4，无限使用GPT-4o和o1** <br />
+欢迎使用ChatGPT中文版！国内可以直接使用的**ChatGPT中文版**！**无需翻墙，支持ChatGPT-4，无限使用GPT-4o和o1** <br />
 <br />
 我们为大家整理了一些国内可用的 **ChatGPT中文版**，方便用户**无需翻墙**即可快速访问 GPT 的强大功能<br />
 <br />
