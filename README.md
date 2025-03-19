@@ -3,13 +3,13 @@
 > 更新：2025/03/19   
 > 作者：gptchinese   
 
-欢迎访问本项目！我们为大家整理了一些国内可用的 **ChatGPT镜像网站**资源，方便用户无需翻墙即可快速访问 GPT 的强大功能
+欢迎访问本项目！我们为大家整理了一些国内可用的 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 资源，方便用户无需翻墙即可快速访问 GPT 的强大功能
 
-同时提供了免费的使用教程，助您在国内使用上**ChatGPT免费中文版镜像网站**，**无限制使用GPT-4o、o1-preview**。
+同时提供了免费的使用教程，助您在国内使用上[**ChatGPT免费中文版镜像网站**](https://chat.lanjing.ai)，**无限制使用GPT-4o、o1、o3**。
 
 ## 什么是ChatGPT中文版镜像网站？
 
-**ChatGPT中文版镜像网站**（ChatGPT Mirror）是指通过复制ChatGPT官网的网站内容和结构，创建的备用网站，助大家使用上ChatGPT服务。<br />
+[**ChatGPT中文版镜像网站**](https://chat.yixiaai.com)（ChatGPT Mirror）是指通过复制ChatGPT官网的网站内容和结构，创建的备用网站，助大家使用上ChatGPT服务。   
 由于众所周知的网络限制，很多用户可能无法直接使用 ChatGPT官方服务，而这些镜像站点通过国内服务器部署，让用户无需翻墙即可使用上 ChatGPT的强大功能。
 
 ### ChatGPT 镜像站有哪些优势？
