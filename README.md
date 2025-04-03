@@ -5,7 +5,7 @@
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 资源，方便用户无需翻墙即可快速访问 GPT 的强大功能
 
-同时提供了免费的使用教程，助您在国内使用上[**ChatGPT免费中文版镜像网站**](https://chat.lanjing.ai)，**无限制使用GPT-4o、o1、o3**。
+同时提供了免费的使用教程，助您在国内使用上[**ChatGPT免费中文版镜像网站**](https://chat.lanjing.pro)，**无限制使用GPT-4o、o1、o3**。
 
 ## 什么是ChatGPT中文版镜像网站？
 
@@ -24,9 +24,9 @@
 
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
 - [https://chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [https://guide1.lanjing.pro/](https://guide1.lanjing.pro/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [https://lanjing.pro/](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ## 如何快速开始使用？（详细教程）
 
