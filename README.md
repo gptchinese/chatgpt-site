@@ -1,6 +1,6 @@
 # 国内最全 ChatGPT中文版镜像网站资源整理（无限使用GPT-4、4o和o1，无需翻墙）【4月持续更新】
 
-> 更新：2025/04/04   
+> 更新：2025/04/05   
 > 作者：gptchinese    
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 资源，方便用户无需翻墙即可快速访问 GPT 的强大功能
@@ -24,9 +24,9 @@
 
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
 - [https://chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [https://guide1.lanjing.pro/](https://guide1.lanjing.pro/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [https://chat.lanjing.pro/](https://chat.lanjing.pro/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [https://lanjing.pro/](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [https://lanjing.ai/](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ## 如何快速开始使用？（详细教程）
 
